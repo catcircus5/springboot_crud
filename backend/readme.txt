@@ -1,1 +1,1 @@
-This is the frontend of the project, made using React.js. 
+This is the backend of the project, made using Springboot. 
